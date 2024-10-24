@@ -21,7 +21,7 @@ This project demonstrates the step-by-step process of setting up Active Director
 
 - Windows 10 (21H2)
 
-# Lab Tutorial: Setting Up VPN in an Azure Virtual Machine
+# Lab Tutorial:Installation and Setup of Active Directory
 
 ## Objective
 The primary objective of this project is to establish a comprehensive understanding of how to implement Active Directory (AD) on a Windows Server within a virtualized environment using VMware. 
@@ -81,12 +81,4 @@ that means that Active Directory and Domain was successfully installed
 
 ## Understanding the Results
 
-From this exercise, you can observe the following:
-
-- When accessing the website from your actual PC without a VPN, it shows your original IP address and your city location.
-
-- After connecting to the Azure virtual machine and accessing the website, a different IP address and the location of the virtual machine (e.g., Paris) are displayed.
-
-- Finally, by connecting to the ProtonVPN server in Japan from within the virtual machine and accessing the website again, another IP address and the location of the VPN server (e.g., Tokyo, Japan) are shown.
-
-This exercise demonstrates how VPNs work by encrypting and routing your internet traffic through remote servers, making it appear as if you are browsing from different locations. VPNs can enhance privacy, and security, and allow you to bypass geo-restrictions.
+Overall, the project results demonstrate not only the successful deployment of Active Directory but also a deeper understanding of its vital role in network management and security within an enterprise IT environment. These experiences enhance the participant's competence and confidence in system administration roles.
